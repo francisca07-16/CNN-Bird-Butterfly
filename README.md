@@ -72,3 +72,4 @@ Model digunakan untuk membuat prediction terhadap imej baharu yang dimuat naik m
 ## Fail Projek
 
 `CNN_Bird_Butterfly.ipynb` mengandungi keseluruhan kod pembangunan model CNN, termasuk preprocessing, training, testing, hyperparameter tuning dan deployment.
+Development branch digunakan untuk proses pembangunan dan pengurusan perubahan projek.
